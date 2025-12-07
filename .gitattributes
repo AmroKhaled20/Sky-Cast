@@ -1,0 +1,5 @@
+windows/* linguist-vendored
+macos/* linguist-vendored
+linux/* linguist-vendored
+android/*.java linguist-vendored
+ios/*.swift linguist-vendored
