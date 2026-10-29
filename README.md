@@ -53,9 +53,3 @@ flutter pub get
 ```bash
 flutter run
 ```
-
----
-
-## 🌟 Project Overview
-
-This project marks another milestone in my Flutter development journey, combining performance, design, and functionality into a seamless weather application.
